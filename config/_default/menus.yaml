@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 7ac8313a-a2df-4daf-93ab-3a3fcb48a674
+  name: About the Book
+  pageRef: /pages/about
+  weight: 10
+- identifier: 679954b9-9040-4c4b-808e-ae34c81a9044
+  name: Textbook
+  pageRef: /pages/textbook
+  weight: 20
+- identifier: 431a3397-6884-4494-91e6-9be4bbda31b3
+  name: Instructor's Manual
+  pageRef: /pages/instructors-manual
+  weight: 30
+- identifier: 941579e3-5f78-47fa-bc27-73cacae1ee53
+  name: Study Guide
+  pageRef: /pages/study-guide
+  weight: 40
+- identifier: 9e566b36-8771-44d0-94f8-d9b591beb86a
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 50
