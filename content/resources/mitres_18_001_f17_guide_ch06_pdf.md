@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-18-001-calculus-fall-2023/mitres_18_001_f17_guide_ch06.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-fall-2023/mitres_18_001_f17_guide_ch06.pdf
 file_size: 655263
 file_type: application/pdf
 image_metadata:
