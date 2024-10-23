@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-18-001-calculus-fall-2023/highlights_detail.jpg
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-fall-2023/highlights_detail.jpg
 file_size: 23395
 file_type: image/jpeg
 image_metadata:
