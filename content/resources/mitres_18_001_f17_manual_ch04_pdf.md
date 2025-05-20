@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-001-calculus-fall-2023/mitres_18_001_f17_manual_ch04.pdf
+file: courses/calculus-online-textbook/mitres_18_001_f17_manual_ch04.pdf
 file_size: 239072
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Instructor's Manual for Chapter 04
+title: Instructor's Manual for Chapter 04
 uid: 4c9da08f-a009-453f-8ed7-fc3f73e18993
 video_files:
   archive_url: ''
