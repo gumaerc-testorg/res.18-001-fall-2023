@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/calculus-online-textbook/mitres_18_001_f17_guide_ch11.pdf
+file: /ol-ocw-studio-app/courses/res-18-001-calculus-fall-2023/mitres_18_001_f17_guide_ch11.pdf
 file_size: 368567
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Study Guide for Chapter 11
