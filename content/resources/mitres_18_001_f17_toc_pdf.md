@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Table of Contents
+title: Table of Contents
 uid: 77ee1f06-3d99-4918-ae3d-57d2dea90cd2
 video_files:
   archive_url: ''

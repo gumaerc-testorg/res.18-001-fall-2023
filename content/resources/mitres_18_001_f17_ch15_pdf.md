@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 15: Vector Calculus'
+title: 'Chapter 15: Vector Calculus'
 uid: 0f7e68d7-22c1-4aac-a479-1d659d5213f9
 video_files:
   archive_url: ''

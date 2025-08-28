@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 06: Exponentials and Logarithms'
+title: 'Chapter 06: Exponentials and Logarithms'
 uid: f5db5332-9371-4bce-af4a-969bf98b91fa
 video_files:
   archive_url: ''

@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 11: Vectors and Matrices'
+title: 'Chapter 11: Vectors and Matrices'
 uid: a3d8bfdb-63d5-49a5-92a1-8e4b07cc7f54
 video_files:
   archive_url: ''

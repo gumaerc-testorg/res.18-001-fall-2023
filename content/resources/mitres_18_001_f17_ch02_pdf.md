@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 02: Derivatives'
+title: 'Chapter 02: Derivatives'
 uid: 8b565223-c5aa-40d6-8934-ed1f7d450c93
 video_files:
   archive_url: ''

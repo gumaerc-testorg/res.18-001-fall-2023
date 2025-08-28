@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 05: Integrals'
+title: 'Chapter 05: Integrals'
 uid: 211cbce5-e6b3-4dd0-bd51-cd2335c300f2
 video_files:
   archive_url: ''

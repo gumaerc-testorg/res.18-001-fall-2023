@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 04: Derivatives by the Chain Rule'
+title: 'Chapter 04: Derivatives by the Chain Rule'
 uid: d154e8f4-bae9-4783-bcb6-30971cd1f010
 video_files:
   archive_url: ''

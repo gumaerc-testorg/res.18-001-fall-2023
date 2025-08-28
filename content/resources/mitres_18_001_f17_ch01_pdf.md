@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 01: Introduction to Calculus'
+title: 'Chapter 01: Introduction to Calculus'
 uid: ecac776b-a853-4e5f-918c-a5e094f3c6b8
 video_files:
   archive_url: ''

@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Instructor's Manual Selected Errata
+title: Instructor's Manual Selected Errata
 uid: 53943afb-3f69-4945-99f4-b9d1030c330c
 video_files:
   archive_url: ''

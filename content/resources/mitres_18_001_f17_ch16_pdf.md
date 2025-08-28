@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 16: Mathematics after Calculus'
+title: 'Chapter 16: Mathematics after Calculus'
 uid: d2b05e10-d576-42ef-a904-29a1d8f2d532
 video_files:
   archive_url: ''

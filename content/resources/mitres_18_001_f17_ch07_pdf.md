@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 07: Techniques of Integration'
+title: 'Chapter 07: Techniques of Integration'
 uid: 77d116dd-9835-4b05-a6f9-60eea60673c2
 video_files:
   archive_url: ''

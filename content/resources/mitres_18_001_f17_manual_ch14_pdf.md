@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Instructor's Manual for Chapter 14
+title: Instructor's Manual for Chapter 14
 uid: aa858db0-f594-4a1e-97d1-096d530e0319
 video_files:
   archive_url: ''

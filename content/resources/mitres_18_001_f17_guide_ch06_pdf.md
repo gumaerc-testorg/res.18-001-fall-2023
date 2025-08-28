@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Study Guide for Chapter 06
+title: Study Guide for Chapter 06
 uid: dd2a2d64-6b29-4b88-91ae-0a8c6af56024
 video_files:
   archive_url: ''

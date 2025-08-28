@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 00: Highlights of Calculus'
+title: 'Chapter 00: Highlights of Calculus'
 uid: f5a33882-579c-41d2-92a3-62a34e855469
 video_files:
   archive_url: ''

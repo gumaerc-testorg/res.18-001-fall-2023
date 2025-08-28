@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 13: Partial Derivatives'
+title: 'Chapter 13: Partial Derivatives'
 uid: 5c17f18a-d02f-4a91-b981-e734eedda387
 video_files:
   archive_url: ''

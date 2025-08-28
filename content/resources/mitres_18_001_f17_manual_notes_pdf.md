@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Instructor's Manual Notes for the Text
+title: Instructor's Manual Notes for the Text
 uid: 800dccee-4fbd-4e19-b01c-e66cf0725afa
 video_files:
   archive_url: ''

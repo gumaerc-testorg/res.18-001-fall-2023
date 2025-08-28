@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 14: Multiple Integrals'
+title: 'Chapter 14: Multiple Integrals'
 uid: 2f9fd94d-aca3-449e-8620-e2c847b02b53
 video_files:
   archive_url: ''

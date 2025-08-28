@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 09: Polar Coordinates and Complex Numbers'
+title: 'Chapter 09: Polar Coordinates and Complex Numbers'
 uid: c5c61ade-cb01-47cb-9335-00e06007fe99
 video_files:
   archive_url: ''

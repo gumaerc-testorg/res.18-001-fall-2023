@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 12: Motion Along a Curve'
+title: 'Chapter 12: Motion Along a Curve'
 uid: de8de07a-66ec-4912-b091-2cff2a698bd1
 video_files:
   archive_url: ''

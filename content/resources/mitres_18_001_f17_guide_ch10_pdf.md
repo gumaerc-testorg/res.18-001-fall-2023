@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: RES.18-001 Calculus (f17), Study Guide for Chapter 10
+title: Study Guide for Chapter 10
 uid: f745e5ef-bf3b-4b2b-9c9c-35250f9167d6
 video_files:
   archive_url: ''

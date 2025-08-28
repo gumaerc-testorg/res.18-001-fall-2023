@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-001 Calculus (f17), Chapter 08: Applications of the Integral'
+title: 'Chapter 08: Applications of the Integral'
 uid: 54810d7c-2aaf-417d-8588-cdebb65d8868
 video_files:
   archive_url: ''
