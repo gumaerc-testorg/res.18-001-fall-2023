@@ -27,7 +27,7 @@
   },
   "course_title": "Calculus Online Textbook",
   "hide_download": false,
-  "course_description": "First published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), this updated 3rd edition of the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link \"431a3397-6884-4494-91e6-9be4bbda31b3\" \"Instructor's Manual\" %}} and a student {{% resource_link \"941579e3-5f78-47fa-bc27-73cacae1ee53\" \"Study Guide\" %}}.",
+  "course_description": "First published in 1991 by {{% resource_link \"bf73c453-9a4e-45fa-b3bc-673000197194\" \"Wellesley-Cambridge Press\" %}}, this updated 3rd edition of the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link \"431a3397-6884-4494-91e6-9be4bbda31b3\" \"Instructor's Manual\" %}} and a student {{% resource_link \"941579e3-5f78-47fa-bc27-73cacae1ee53\" \"Study Guide\" %}}.",
   "department_numbers": [
     "18"
   ],
