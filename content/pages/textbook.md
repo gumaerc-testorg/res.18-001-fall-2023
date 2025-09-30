@@ -5,7 +5,7 @@ draft: false
 title: Textbook
 uid: 679954b9-9040-4c4b-808e-ae34c81a9044
 ---
-First published in 1991 by [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), this updated 3rd edition of the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link "431a3397-6884-4494-91e6-9be4bbda31b3" "Instructor's Manual" %}} and a student {{% resource_link "941579e3-5f78-47fa-bc27-73cacae1ee53" "Study Guide" %}}.
+First published in 1991 by {{% resource_link "bf73c453-9a4e-45fa-b3bc-673000197194" "Wellesley-Cambridge Press" %}}, this updated 3rd edition of the book is a useful resource for educators and self-learners alike. It is well organized, covers single variable and multivariable calculus in depth, and is rich with applications. There is also an online {{% resource_link "431a3397-6884-4494-91e6-9be4bbda31b3" "Instructor's Manual" %}} and a student {{% resource_link "941579e3-5f78-47fa-bc27-73cacae1ee53" "Study Guide" %}}.
 
 The {{% resource_link "bc233b36-f6d6-44ff-b360-a7a4ecab7a86" "complete textbook (PDF)" %}} is also available as a single file. 
 
